@@ -1,0 +1,44 @@
+2024-03-24 22:21:46.0883|DEBUG|ApiSocialNetwork.Program|API запускается
+2024-03-24 22:21:47.5739|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2024-03-24 22:21:48.3065|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-03-24 22:21:48.7806|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7R" accepted.
+2024-03-24 22:21:48.7806|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7Q" accepted.
+2024-03-24 22:21:48.7806|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7R" started.
+2024-03-24 22:21:48.7806|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7Q" started.
+2024-03-24 22:21:49.4270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7S" accepted.
+2024-03-24 22:21:49.4270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7S" started.
+2024-03-24 22:21:49.4270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7T" accepted.
+2024-03-24 22:21:49.4270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7T" started.
+2024-03-24 22:21:48.5648|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5108
+2024-03-24 22:21:50.6042|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly ApiSocialNetwork
+2024-03-24 22:21:50.6042|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-03-24 22:21:50.6042|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-03-24 22:21:49.5833|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/swagger/index.html - -
+2024-03-24 22:21:52.1038|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed.
+2024-03-24 22:21:52.1038|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-24 22:21:52.2064|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection.
+2024-03-24 22:21:52.4401|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection.
+2024-03-24 22:21:52.4401|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7S" completed keep alive response.
+2024-03-24 22:21:50.6042|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-03-24 22:21:52.4933|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/_vs/browserLink - -
+2024-03-24 22:21:54.8000|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7T" completed keep alive response.
+2024-03-24 22:21:52.4401|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/swagger/index.html - - - 200 - text/html;charset=utf-8 2866.0468ms
+2024-03-24 22:21:53.4532|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2024-03-24 22:21:54.8000|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 2306.8959ms
+2024-03-24 22:21:55.9928|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/_framework/aspnetcore-browser-refresh.js - -
+2024-03-24 22:21:59.3046|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7S" completed keep alive response.
+2024-03-24 22:21:56.7956|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELUR\OneDrive\Рабочий стол\ApiSocialNetwork\ApiSocialNetwork
+2024-03-24 22:22:00.5929|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started
+2024-03-24 22:21:59.3046|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 3311.8631ms
+2024-03-24 22:22:01.9684|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/swagger/v1/swagger.json - -
+2024-03-24 22:22:02.8548|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-24 22:22:03.0258|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7S" completed keep alive response.
+2024-03-24 22:22:03.0258|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1057.5540ms
+2024-03-24 22:26:56.1324|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2C6UJFAN7T" received FIN.
+2024-03-24 22:26:56.1445|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7T" disconnecting.
+2024-03-24 22:26:56.1445|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2C6UJFAN7T" sending FIN because: "The client closed the connection."
+2024-03-24 22:26:56.1571|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7T" stopped.
+2024-03-24 22:27:05.1326|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2C6UJFAN7S" received FIN.
+2024-03-24 22:27:05.1326|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7S" disconnecting.
+2024-03-24 22:27:05.1326|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2C6UJFAN7S" sending FIN because: "The client closed the connection."
+2024-03-24 22:27:05.1483|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2C6UJFAN7S" stopped.

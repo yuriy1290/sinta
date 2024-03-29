@@ -1,0 +1,359 @@
+2024-03-20 23:16:22.1064|DEBUG|ApiSocialNetwork.Program|API запускается
+2024-03-20 23:16:22.9799|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2024-03-20 23:16:23.1467|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-03-20 23:16:23.2954|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5108
+2024-03-20 23:16:23.2954|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly ApiSocialNetwork
+2024-03-20 23:16:23.2954|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-03-20 23:16:23.2954|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-03-20 23:16:23.2954|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-03-20 23:16:23.2954|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2024-03-20 23:16:23.2954|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELUR\OneDrive\Рабочий стол\ApiSocialNetwork\ApiSocialNetwork
+2024-03-20 23:16:23.2954|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started
+2024-03-20 23:16:23.4453|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL4" accepted.
+2024-03-20 23:16:23.4453|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL4" started.
+2024-03-20 23:16:23.4514|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL5" accepted.
+2024-03-20 23:16:23.4514|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL5" started.
+2024-03-20 23:16:23.4906|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN293AEIHAL4" received FIN.
+2024-03-20 23:16:23.4906|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN293AEIHAL5" received FIN.
+2024-03-20 23:16:23.5201|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN293AEIHAL4" sending FIN because: "The client closed the connection."
+2024-03-20 23:16:23.5201|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN293AEIHAL5" sending FIN because: "The client closed the connection."
+2024-03-20 23:16:23.5201|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL4" disconnecting.
+2024-03-20 23:16:23.5201|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL5" disconnecting.
+2024-03-20 23:16:23.5201|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL4" stopped.
+2024-03-20 23:16:23.5201|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL5" stopped.
+2024-03-20 23:16:23.7022|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL6" accepted.
+2024-03-20 23:16:23.7022|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL6" started.
+2024-03-20 23:16:23.7022|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL7" accepted.
+2024-03-20 23:16:23.7022|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL7" started.
+2024-03-20 23:16:23.7820|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/swagger/index.html - -
+2024-03-20 23:16:23.8706|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed.
+2024-03-20 23:16:23.8706|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-20 23:16:23.9823|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection.
+2024-03-20 23:16:24.1855|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection.
+2024-03-20 23:16:24.1855|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL6" completed keep alive response.
+2024-03-20 23:16:24.1855|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/swagger/index.html - - - 200 - text/html;charset=utf-8 413.0720ms
+2024-03-20 23:16:24.2189|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/_vs/browserLink - -
+2024-03-20 23:16:24.2189|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 23:16:24.2371|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL6" completed keep alive response.
+2024-03-20 23:16:24.2371|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 16.1654ms
+2024-03-20 23:16:24.2717|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL7" completed keep alive response.
+2024-03-20 23:16:24.2717|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.1187ms
+2024-03-20 23:16:24.3822|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/swagger/v1/swagger.json - -
+2024-03-20 23:16:24.3822|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-20 23:16:24.5465|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL7" completed keep alive response.
+2024-03-20 23:16:24.5465|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 164.4654ms
+2024-03-20 23:16:27.7739|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/api/Applications - -
+2024-03-20 23:16:27.7739|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-20 23:16:27.7739|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-03-20 23:16:27.7773|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2024-03-20 23:16:27.8013|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/Applications'
+2024-03-20 23:16:27.8013|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork)' with route pattern 'api/Applications' is valid for the request path '/api/Applications'
+2024-03-20 23:16:27.8013|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork)'
+2024-03-20 23:16:27.8013|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork)'
+2024-03-20 23:16:27.8196|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetApplications", controller = "Applications"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiSocialNetwork.Models.Application]]] GetApplications() on controller ApiSocialNetwork.Controllers.ApplicationsController (ApiSocialNetwork).
+2024-03-20 23:16:27.8196|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-03-20 23:16:27.8196|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-03-20 23:16:27.8196|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-03-20 23:16:27.8196|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-03-20 23:16:27.8196|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-03-20 23:16:27.8196|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller ApiSocialNetwork.Controllers.ApplicationsController (ApiSocialNetwork)
+2024-03-20 23:16:27.9412|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-03-20 23:16:27.9674|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller ApiSocialNetwork.Controllers.ApplicationsController (ApiSocialNetwork)
+2024-03-20 23:16:27.9674|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:16:27.9674|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:16:27.9674|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:16:27.9674|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:16:27.9674|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork) - Validation state: Valid
+2024-03-20 23:16:28.6704|DEBUG|Microsoft.EntityFrameworkCore.Model.Validation|The property 'Progress.IdPictureNavigationIdPicture' was created in shadow state because there are no eligible CLR members with a matching name.
+2024-03-20 23:16:28.8446|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.23 initialized 'SocialNetworkContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.23' with options: None
+2024-03-20 23:16:28.8892|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Application>()'
+2024-03-20 23:16:29.0373|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Application>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Application.IdApplications (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Application.RecipientId (int) Required, 1], [Property: Application.SenderId (int) Required, 2] }
+        SELECT a.ID_Applications, a.Recipient_ID, a.Sender_ID
+        FROM Applications AS a), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Application>, 
+    ApiSocialNetwork.Models.SocialNetworkContext, 
+    False, 
+    False, 
+    True
+)'
+2024-03-20 23:16:29.0800|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'.
+2024-03-20 23:16:29.1144|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (32ms).
+2024-03-20 23:16:29.1235|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:16:29.4120|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:16:29.4212|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[ID_Applications], [a].[Recipient_ID], [a].[Sender_ID]
+FROM [Applications] AS [a]
+2024-03-20 23:16:29.4681|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (48ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[ID_Applications], [a].[Recipient_ID], [a].[Sender_ID]
+FROM [Applications] AS [a]
+2024-03-20 23:16:29.5013|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:29.5171|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:29.5171|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:29.5171|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:29.5171|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:29.5171|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:29.5288|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader was disposed.
+2024-03-20 23:16:29.5288|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:16:29.5417|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:16:29.5417|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1571.7993ms.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-20 23:16:29.5417|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-03-20 23:16:29.5417|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter based on Accept header 'text/plain'.
+2024-03-20 23:16:29.5417|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Could not find an output formatter based on content negotiation. Accepted types were (text/plain)
+2024-03-20 23:16:29.5417|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-03-20 23:16:29.5417|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-03-20 23:16:29.5417|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-03-20 23:16:29.5417|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ApiSocialNetwork.Models.Application, ApiSocialNetwork, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:16:29.5417|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:16:29.5604|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork) in 1736.9528ms
+2024-03-20 23:16:29.5604|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork)'
+2024-03-20 23:16:29.5604|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL7" completed keep alive response.
+2024-03-20 23:16:29.5604|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'SocialNetworkContext' disposed.
+2024-03-20 23:16:29.5604|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/api/Applications - - - 200 - application/json;+charset=utf-8 1794.1286ms
+2024-03-20 23:16:35.3779|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/api/Correspondences - -
+2024-03-20 23:16:35.3779|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/Correspondences'
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'ApiSocialNetwork.Controllers.CorrespondencesController.GetCorrespondences (ApiSocialNetwork)' with route pattern 'api/Correspondences' is valid for the request path '/api/Correspondences'
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'ApiSocialNetwork.Controllers.CorrespondencesController.GetCorrespondences (ApiSocialNetwork)'
+2024-03-20 23:16:35.3779|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'ApiSocialNetwork.Controllers.CorrespondencesController.GetCorrespondences (ApiSocialNetwork)'
+2024-03-20 23:16:35.3779|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetCorrespondences", controller = "Correspondences"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiSocialNetwork.Models.Correspondence]]] GetCorrespondences() on controller ApiSocialNetwork.Controllers.CorrespondencesController (ApiSocialNetwork).
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller ApiSocialNetwork.Controllers.CorrespondencesController (ApiSocialNetwork)
+2024-03-20 23:16:35.3779|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller ApiSocialNetwork.Controllers.CorrespondencesController (ApiSocialNetwork)
+2024-03-20 23:16:35.3779|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:16:35.3779|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:16:35.3779|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:16:35.3779|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:16:35.3779|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method ApiSocialNetwork.Controllers.CorrespondencesController.GetCorrespondences (ApiSocialNetwork) - Validation state: Valid
+2024-03-20 23:16:35.3779|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.23 initialized 'SocialNetworkContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.23' with options: None
+2024-03-20 23:16:35.3866|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Correspondence>()'
+2024-03-20 23:16:35.3866|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Correspondence>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Correspondence.IdCorrespondence (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Correspondence.MessageId (int) Required, 1], [Property: Correspondence.SenderId (int) Required, 2], [Property: Correspondence.UserId (int) Required, 3] }
+        SELECT c.ID_Correspondence, c.Message_ID, c.Sender_ID, c.User_ID
+        FROM Correspondence AS c), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Correspondence>, 
+    ApiSocialNetwork.Models.SocialNetworkContext, 
+    False, 
+    False, 
+    True
+)'
+2024-03-20 23:16:35.3866|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'.
+2024-03-20 23:16:35.3866|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms).
+2024-03-20 23:16:35.3866|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:16:35.3866|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:16:35.3866|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[ID_Correspondence], [c].[Message_ID], [c].[Sender_ID], [c].[User_ID]
+FROM [Correspondence] AS [c]
+2024-03-20 23:16:35.3866|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[ID_Correspondence], [c].[Message_ID], [c].[Sender_ID], [c].[User_ID]
+FROM [Correspondence] AS [c]
+2024-03-20 23:16:35.3866|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Correspondence' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader was disposed.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:16:35.4040|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method ApiSocialNetwork.Controllers.CorrespondencesController.GetCorrespondences (ApiSocialNetwork), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 20.8776ms.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter based on Accept header 'text/plain'.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Could not find an output formatter based on content negotiation. Accepted types were (text/plain)
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-03-20 23:16:35.4040|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ApiSocialNetwork.Models.Correspondence, ApiSocialNetwork, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:16:35.4040|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:16:35.4040|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action ApiSocialNetwork.Controllers.CorrespondencesController.GetCorrespondences (ApiSocialNetwork) in 23.0357ms
+2024-03-20 23:16:35.4040|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'ApiSocialNetwork.Controllers.CorrespondencesController.GetCorrespondences (ApiSocialNetwork)'
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL7" completed keep alive response.
+2024-03-20 23:16:35.4040|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'SocialNetworkContext' disposed.
+2024-03-20 23:16:35.4040|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/api/Correspondences - - - 200 - application/json;+charset=utf-8 28.4236ms
+2024-03-20 23:18:02.5663|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/api/Friends - -
+2024-03-20 23:18:02.5663|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-20 23:18:02.5663|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-03-20 23:18:02.5663|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/Friends'
+2024-03-20 23:18:02.5663|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork)' with route pattern 'api/Friends' is valid for the request path '/api/Friends'
+2024-03-20 23:18:02.5663|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork)'
+2024-03-20 23:18:02.5663|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork)'
+2024-03-20 23:18:02.5747|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetFriends", controller = "Friends"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiSocialNetwork.Models.Friend]]] GetFriends() on controller ApiSocialNetwork.Controllers.FriendsController (ApiSocialNetwork).
+2024-03-20 23:18:02.5747|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-03-20 23:18:02.5747|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-03-20 23:18:02.5747|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-03-20 23:18:02.5747|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-03-20 23:18:02.5747|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-03-20 23:18:02.5747|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller ApiSocialNetwork.Controllers.FriendsController (ApiSocialNetwork)
+2024-03-20 23:18:02.5747|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller ApiSocialNetwork.Controllers.FriendsController (ApiSocialNetwork)
+2024-03-20 23:18:02.5747|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:18:02.5747|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:18:02.5747|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:18:02.5747|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:18:02.5747|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork) - Validation state: Valid
+2024-03-20 23:18:02.6104|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.23 initialized 'SocialNetworkContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.23' with options: None
+2024-03-20 23:18:02.6104|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Friend>()'
+2024-03-20 23:18:02.6104|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Friend>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Friend.IdFriends (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Friend.FriendsId (int) Required, 1], [Property: Friend.UserId (int) Required, 2] }
+        SELECT f.ID_Friends, f.Friends_ID, f.User_ID
+        FROM Friends AS f), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Friend>, 
+    ApiSocialNetwork.Models.SocialNetworkContext, 
+    False, 
+    False, 
+    True
+)'
+2024-03-20 23:18:02.6104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'.
+2024-03-20 23:18:02.6104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms).
+2024-03-20 23:18:02.6104|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:18:02.6104|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:18:02.6104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [f].[ID_Friends], [f].[Friends_ID], [f].[User_ID]
+FROM [Friends] AS [f]
+2024-03-20 23:18:02.6387|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (25ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [f].[ID_Friends], [f].[Friends_ID], [f].[User_ID]
+FROM [Friends] AS [f]
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Friend' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Friend' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Friend' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Friend' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader was disposed.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:18:02.6387|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 67.4946ms.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter based on Accept header 'text/plain'.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Could not find an output formatter based on content negotiation. Accepted types were (text/plain)
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-03-20 23:18:02.6387|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ApiSocialNetwork.Models.Friend, ApiSocialNetwork, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:18:02.6387|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:18:02.6387|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork) in 70.2586ms
+2024-03-20 23:18:02.6387|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork)'
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL7" completed keep alive response.
+2024-03-20 23:18:02.6387|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'SocialNetworkContext' disposed.
+2024-03-20 23:18:02.6387|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/api/Friends - - - 200 - application/json;+charset=utf-8 79.5228ms
+2024-03-20 23:18:12.3477|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/api/Friends - -
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/Friends'
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork)' with route pattern 'api/Friends' is valid for the request path '/api/Friends'
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork)'
+2024-03-20 23:18:12.3477|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork)'
+2024-03-20 23:18:12.3477|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetFriends", controller = "Friends"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiSocialNetwork.Models.Friend]]] GetFriends() on controller ApiSocialNetwork.Controllers.FriendsController (ApiSocialNetwork).
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller ApiSocialNetwork.Controllers.FriendsController (ApiSocialNetwork)
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller ApiSocialNetwork.Controllers.FriendsController (ApiSocialNetwork)
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:18:12.3477|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork) - Validation state: Valid
+2024-03-20 23:18:12.3477|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.23 initialized 'SocialNetworkContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.23' with options: None
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (0ms).
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [f].[ID_Friends], [f].[Friends_ID], [f].[User_ID]
+FROM [Friends] AS [f]
+2024-03-20 23:18:12.3477|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [f].[ID_Friends], [f].[Friends_ID], [f].[User_ID]
+FROM [Friends] AS [f]
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Friend' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Friend' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Friend' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Friend' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader was disposed.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-20 23:18:12.3477|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2.3567ms.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter based on Accept header 'text/plain'.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Could not find an output formatter based on content negotiation. Accepted types were (text/plain)
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-03-20 23:18:12.3477|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ApiSocialNetwork.Models.Friend, ApiSocialNetwork, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:18:12.3477|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-20 23:18:12.3477|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork) in 2.9385ms
+2024-03-20 23:18:12.3477|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'ApiSocialNetwork.Controllers.FriendsController.GetFriends (ApiSocialNetwork)'
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL7" completed keep alive response.
+2024-03-20 23:18:12.3477|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'SocialNetworkContext' disposed.
+2024-03-20 23:18:12.3477|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/api/Friends - - - 200 - application/json;+charset=utf-8 3.5596ms
+2024-03-20 23:21:37.8342|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN293AEIHAL6" received FIN.
+2024-03-20 23:21:37.8342|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL6" disconnecting.
+2024-03-20 23:21:37.8342|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN293AEIHAL6" stopped.
+2024-03-20 23:21:37.8447|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN293AEIHAL6" sending FIN because: "The Socket transport's send loop completed gracefully."

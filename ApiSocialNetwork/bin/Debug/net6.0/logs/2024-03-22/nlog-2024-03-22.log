@@ -1,0 +1,134 @@
+2024-03-22 11:25:34.6465|DEBUG|ApiSocialNetwork.Program|API запускается
+2024-03-22 11:25:35.5450|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2024-03-22 11:25:35.6517|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-03-22 11:25:35.8122|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764Q" accepted.
+2024-03-22 11:25:35.8122|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764R" accepted.
+2024-03-22 11:25:35.8122|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764Q" started.
+2024-03-22 11:25:35.8122|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764R" started.
+2024-03-22 11:25:35.8122|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2A96J0764R" received FIN.
+2024-03-22 11:25:35.8122|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2A96J0764Q" received FIN.
+2024-03-22 11:25:35.8372|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2A96J0764Q" sending FIN because: "The client closed the connection."
+2024-03-22 11:25:35.8372|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2A96J0764R" sending FIN because: "The client closed the connection."
+2024-03-22 11:25:35.8440|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764R" disconnecting.
+2024-03-22 11:25:35.8440|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764Q" disconnecting.
+2024-03-22 11:25:35.8440|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764Q" stopped.
+2024-03-22 11:25:35.8440|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764R" stopped.
+2024-03-22 11:25:36.0515|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764S" accepted.
+2024-03-22 11:25:36.0515|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764S" started.
+2024-03-22 11:25:36.0515|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764T" accepted.
+2024-03-22 11:25:36.0515|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764T" started.
+2024-03-22 11:25:35.7855|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5108
+2024-03-22 11:25:37.3522|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly ApiSocialNetwork
+2024-03-22 11:25:37.3522|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-03-22 11:25:37.3522|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-03-22 11:25:36.1589|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/swagger/index.html - -
+2024-03-22 11:25:38.7488|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed.
+2024-03-22 11:25:38.7488|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-22 11:25:38.8276|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection.
+2024-03-22 11:25:38.9807|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection.
+2024-03-22 11:25:38.9807|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764S" completed keep alive response.
+2024-03-22 11:25:37.3522|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-03-22 11:25:38.9975|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/swagger/index.html - - - 200 - text/html;charset=utf-8 2840.7549ms
+2024-03-22 11:25:38.9807|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/_framework/aspnetcore-browser-refresh.js - -
+2024-03-22 11:25:44.7092|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764T" completed keep alive response.
+2024-03-22 11:25:40.1314|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2024-03-22 11:25:41.5128|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/_vs/browserLink - -
+2024-03-22 11:25:47.3557|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764S" completed keep alive response.
+2024-03-22 11:25:44.7092|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 5728.6728ms
+2024-03-22 11:25:46.0303|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELUR\OneDrive\Рабочий стол\ApiSocialNetwork\ApiSocialNetwork
+2024-03-22 11:25:50.2307|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started
+2024-03-22 11:25:47.3557|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 5843.0082ms
+2024-03-22 11:25:51.6578|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/swagger/v1/swagger.json - -
+2024-03-22 11:25:53.0064|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-22 11:25:53.1128|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764S" completed keep alive response.
+2024-03-22 11:25:53.1128|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1455.0581ms
+2024-03-22 11:26:38.4733|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/api/Applications - -
+2024-03-22 11:26:39.8033|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-22 11:26:39.8033|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-03-22 11:26:39.8033|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2024-03-22 11:26:41.1339|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/api/Applications'
+2024-03-22 11:26:41.1360|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork)' with route pattern 'api/Applications' is valid for the request path '/api/Applications'
+2024-03-22 11:26:41.1360|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork)'
+2024-03-22 11:26:41.1360|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork)'
+2024-03-22 11:26:42.6936|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetApplications", controller = "Applications"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ApiSocialNetwork.Models.Application]]] GetApplications() on controller ApiSocialNetwork.Controllers.ApplicationsController (ApiSocialNetwork).
+2024-03-22 11:26:44.7400|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-03-22 11:26:44.7400|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-03-22 11:26:44.7400|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-03-22 11:26:44.7400|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-03-22 11:26:44.7400|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-03-22 11:26:44.7400|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller ApiSocialNetwork.Controllers.ApplicationsController (ApiSocialNetwork)
+2024-03-22 11:26:44.8529|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-03-22 11:26:44.8770|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller ApiSocialNetwork.Controllers.ApplicationsController (ApiSocialNetwork)
+2024-03-22 11:26:44.8770|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-22 11:26:44.8770|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-22 11:26:44.8770|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-22 11:26:44.8770|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-22 11:26:44.8770|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork) - Validation state: Valid
+2024-03-22 11:26:46.8420|DEBUG|Microsoft.EntityFrameworkCore.Model.Validation|The property 'Progress.IdPictureNavigationIdPicture' was created in shadow state because there are no eligible CLR members with a matching name.
+2024-03-22 11:26:47.0019|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.23 initialized 'SocialNetworkContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.23' with options: None
+2024-03-22 11:26:48.1852|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Application>()'
+2024-03-22 11:26:48.3275|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Application>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Application.IdApplications (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Application.RecipientId (int) Required, 1], [Property: Application.SenderId (int) Required, 2] }
+        SELECT a.ID_Applications, a.Recipient_ID, a.Sender_ID
+        FROM Applications AS a), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Application>, 
+    ApiSocialNetwork.Models.SocialNetworkContext, 
+    False, 
+    False, 
+    True
+)'
+2024-03-22 11:26:48.3678|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'.
+2024-03-22 11:26:48.4020|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (32ms).
+2024-03-22 11:26:48.4020|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-22 11:26:48.6796|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-22 11:26:48.6882|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[ID_Applications], [a].[Recipient_ID], [a].[Sender_ID]
+FROM [Applications] AS [a]
+2024-03-22 11:26:48.7335|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (46ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[ID_Applications], [a].[Recipient_ID], [a].[Sender_ID]
+FROM [Applications] AS [a]
+2024-03-22 11:26:49.9578|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-22 11:26:49.9734|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-22 11:26:49.9734|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-22 11:26:49.9734|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-22 11:26:49.9734|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-22 11:26:49.9734|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'SocialNetworkContext' started tracking 'Application' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-03-22 11:26:49.9850|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader was disposed.
+2024-03-22 11:26:49.9850|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-22 11:26:49.9976|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'SocialNetwork' on server 'DESKTOP-SQB4B00\DELUR'.
+2024-03-22 11:26:49.9976|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 3693.8575ms.
+2024-03-22 11:26:51.2566|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-22 11:26:51.2566|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-03-22 11:26:51.2566|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-22 11:26:51.2566|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-03-22 11:26:51.2566|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-22 11:26:51.2566|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-22 11:26:51.2566|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-22 11:26:51.2608|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-03-22 11:26:51.2608|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter based on Accept header 'text/plain'.
+2024-03-22 11:26:51.2608|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Could not find an output formatter based on content negotiation. Accepted types were (text/plain)
+2024-03-22 11:26:51.2608|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-03-22 11:26:51.2608|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-03-22 11:26:51.2608|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-03-22 11:26:51.2608|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[ApiSocialNetwork.Models.Application, ApiSocialNetwork, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-22 11:26:52.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-03-22 11:26:52.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-22 11:26:52.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-03-22 11:26:52.5442|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork) in 7804.9242ms
+2024-03-22 11:26:53.7914|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'ApiSocialNetwork.Controllers.ApplicationsController.GetApplications (ApiSocialNetwork)'
+2024-03-22 11:26:55.0975|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764S" completed keep alive response.
+2024-03-22 11:26:55.0975|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'SocialNetworkContext' disposed.
+2024-03-22 11:26:55.0975|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/api/Applications - - - 200 - application/json;+charset=utf-8 16630.3615ms
+2024-03-22 11:31:41.3419|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2A96J0764T" received FIN.
+2024-03-22 11:31:41.4110|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2A96J0764T" sending FIN because: "The client closed the connection."
+2024-03-22 11:31:41.4110|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764T" disconnecting.
+2024-03-22 11:31:41.4415|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764T" stopped.
+2024-03-22 11:32:43.5287|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2A96J0764S" received FIN.
+2024-03-22 11:32:43.5287|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764S" disconnecting.
+2024-03-22 11:32:43.5287|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2A96J0764S" stopped.
+2024-03-22 11:32:43.5287|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2A96J0764S" sending FIN because: "The Socket transport's send loop completed gracefully."
