@@ -2,29 +2,35 @@ name: ASP.NET CI
 
 on: [push, pull_request]
 
+env:
+  DOTNET_VERSION: '6.0.x' # Устанавливаем версию .NET как переменную окружения для легкости обновления
+
 jobs:
   sintacsice:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v2 # Шаг для клонирования репозитория
 
-    - name: Setup .NET
+    - name: Setup .NET Core
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: '6.0.x'
+        dotnet-version: ${{ env.6.0.x }} # Используем переменную окружения для версии .NET
 
-    - name: Restore dependencies
+    - name: Restore NuGet packages
       run: dotnet restore
 
-    - name: Build
+    - name: Build the project
       run: dotnet build --no-restore -c Release
 
-    - name: Test
+    - name: Run tests
       run: dotnet test --no-build -c Release --verbosity normal
 
-    - name: Install report generator
+    - name: Install Report Generator Tool
       run: dotnet tool install --global dotnet-reportgenerator-globaltool
 
-    - name: Run Code Style Analysis (Optional)
+    - name: Optional - Run Code Style Analysis
       run: dotnet build /p:RunCodeAnalysis=true
+      # Этот шаг можно расширить или изменить в зависимости от требований к анализу кода
+
+    # Дополнительные шаги могут быть добавлены здесь, например, публикация артефактов или отправка уведомлений
