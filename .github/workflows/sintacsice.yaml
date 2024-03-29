@@ -6,7 +6,7 @@ env:
   DOTNET_VERSION: '6.0.x' # Устанавливаем версию .NET как переменную окружения для легкости обновления
 
 jobs:
-  sintacsice:
+    sintacsice:
     runs-on: ubuntu-latest
 
     steps:
@@ -15,7 +15,7 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: ${{ env.6.0.x }} # Используем переменную окружения для версии .NET
+        dotnet-version: ${{ env.6.0.x }} 
 
     - name: Restore NuGet packages
       run: dotnet restore
@@ -31,6 +31,3 @@ jobs:
 
     - name: Optional - Run Code Style Analysis
       run: dotnet build /p:RunCodeAnalysis=true
-      # Этот шаг можно расширить или изменить в зависимости от требований к анализу кода
-
-    # Дополнительные шаги могут быть добавлены здесь, например, публикация артефактов или отправка уведомлений
