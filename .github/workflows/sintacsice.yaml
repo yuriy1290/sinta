@@ -12,10 +12,19 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: '6.0.x' # Убедитесь, что используете .NET 5.0 или более новую версию
+        dotnet-version: '6.0.x'
 
     - name: Restore dependencies
       run: dotnet restore
 
-    - name: Build with .NET Analyzers (FxCop)
-      run: dotnet build --no-restore -c Release /p:EnableNETAnalyzers=true /p:EnforceCodeStyleInBuild=true /p:TreatWarningsAsErrors=true
+    - name: Download ReSharper Command Line Tools
+      run: wget -qO- https://download.jetbrains.com/resharper/dotUltimate.2020.3.4/JetBrains.ReSharper.CommandLineTools.Unix.2020.3.4.tar.gz | tar xvz
+
+    - name: Run ReSharper InspectCode
+      run: ./inspectcode.sh ApiSocialNetwork/ApiSocialNetwork.sln -o=resharper-report.xml
+
+    - name: Upload ReSharper Report
+      uses: actions/upload-artifact@v2
+      with:
+        name: ReSharper Report
+        path: resharper-report.xml
