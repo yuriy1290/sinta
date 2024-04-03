@@ -20,8 +20,9 @@ jobs:
     - name: Download ReSharper Command Line Tools
       run: wget -qO- https://download.jetbrains.com/resharper/dotUltimate.2020.3.4/JetBrains.ReSharper.CommandLineTools.Unix.2020.3.4.tar.gz | tar xvz
 
-    - name: Run ReSharper InspectCode
-      run: ./inspectcode.sh ApiSocialNetwork/ApiSocialNetwork.sln -o=resharper-report.xml
+    - name: Download ReSharper Command Line Tools
+      run: wget -qO- https://www.jetbrains.com/resharper/download/#section=web-installer | tar xvz
+
 
     - name: Upload ReSharper Report
       uses: actions/upload-artifact@v2
