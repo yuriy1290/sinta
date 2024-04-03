@@ -17,6 +17,8 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
 
-    - name: Check Syntax
-      run: dotnet build --no-restore -c Release
+    - name: Install StyleCop Analyzers
+      run: dotnet add package StyleCop.Analyzers
 
+    - name: Build with StyleCop
+      run: dotnet build --no-restore -c Release
