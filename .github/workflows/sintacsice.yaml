@@ -17,8 +17,8 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
 
-    - name: Install FxCop Analyzers
-      run: dotnet add ApiSocialNetwork/ApiSocialNetwork.csproj package FxCopAnalyzers
+    - name: Install Roslyn Analyzers
+      run: dotnet add ApiSocialNetwork/ApiSocialNetwork.csproj package Microsoft.CodeAnalysis.NetAnalyzers
 
-    - name: Build with FxCop
+    - name: Build with Roslyn Analyzers
       run: dotnet build --no-restore -c Release
