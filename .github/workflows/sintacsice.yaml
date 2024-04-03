@@ -17,8 +17,7 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
 
-    # Здесь больше не нужно устанавливать StyleCop.Analyzers
-    # Вместо этого, убедитесь, что ваш проект настроен на использование .NET Analyzers
+    # Удаление шага установки StyleCop Analyzers
 
     - name: Build with .NET Analyzers
       run: dotnet build --no-restore -c Release /p:EnableNETAnalyzers=true
