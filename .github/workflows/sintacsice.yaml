@@ -18,7 +18,8 @@ jobs:
       run: dotnet restore
 
     - name: Install StyleCop Analyzers
-      run: dotnet add package StyleCop.Analyzers
+      run: dotnet add /ApiSocialNetwork/ApiSocialNetwork.csproj package StyleCop.Analyzers
+
 
     - name: Build with StyleCop
       run: dotnet build --no-restore -c Release
