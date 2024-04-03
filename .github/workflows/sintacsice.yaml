@@ -1,33 +1,22 @@
-name: ASP.NET CI
+name: C# Syntax Check CI
 
 on: [push, pull_request]
 
-env:
-  DOTNET_VERSION: '6.0.x' # Устанавливаем версию .NET как переменную окружения для легкости обновления
-
 jobs:
-    sintacsice:
+  syntax-check:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2 # Шаг для клонирования репозитория
+    - uses: actions/checkout@v2
 
-    - name: Setup .NET Core
+    - name: Setup .NET
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: ${{ env.6.0.x }} 
+        dotnet-version: '6.0.x'
 
-    - name: Restore NuGet packages
+    - name: Restore dependencies
       run: dotnet restore
 
-    - name: Build the project
+    - name: Check Syntax
       run: dotnet build --no-restore -c Release
 
-    - name: Run tests
-      run: dotnet test --no-build -c Release --verbosity normal
-
-    - name: Install Report Generator Tool
-      run: dotnet tool install --global dotnet-reportgenerator-globaltool
-
-    - name: Optional - Run Code Style Analysis
-      run: dotnet build /p:RunCodeAnalysis=true

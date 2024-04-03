@@ -1,0 +1,309 @@
+2024-04-02 21:30:49.3479|DEBUG|ApiSocialNetwork.Program|API запускается
+2024-04-02 21:30:50.8741|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2024-04-02 21:30:51.1846|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-04-02 21:30:52.1637|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMP" accepted.
+2024-04-02 21:30:52.1637|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMP" started.
+2024-04-02 21:30:52.1637|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMQ" accepted.
+2024-04-02 21:30:52.1637|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMQ" started.
+2024-04-02 21:30:52.5411|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMR" accepted.
+2024-04-02 21:30:52.5411|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMR" started.
+2024-04-02 21:30:52.5411|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMS" accepted.
+2024-04-02 21:30:52.5411|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMS" started.
+2024-04-02 21:30:51.8232|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5108
+2024-04-02 21:30:52.8832|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly ApiSocialNetwork
+2024-04-02 21:30:52.8832|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-04-02 21:30:52.8832|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-04-02 21:30:52.7096|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/swagger/index.html - -
+2024-04-02 21:30:54.3050|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed.
+2024-04-02 21:30:54.3050|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:30:54.3987|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection.
+2024-04-02 21:30:54.6279|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection.
+2024-04-02 21:30:54.6279|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMR" completed keep alive response.
+2024-04-02 21:30:52.8832|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-04-02 21:30:54.6577|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/_vs/browserLink - -
+2024-04-02 21:30:56.7191|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMS" completed keep alive response.
+2024-04-02 21:30:54.6334|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/swagger/index.html - - - 200 - text/html;charset=utf-8 1928.0773ms
+2024-04-02 21:30:55.6516|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2024-04-02 21:30:56.7191|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 2061.7285ms
+2024-04-02 21:30:59.9172|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/_framework/aspnetcore-browser-refresh.js - -
+2024-04-02 21:31:03.3918|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMR" completed keep alive response.
+2024-04-02 21:31:00.7726|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\DELUR\OneDrive\Рабочий стол\ApiSocialNetwork\ApiSocialNetwork
+2024-04-02 21:31:04.7784|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started
+2024-04-02 21:31:03.3918|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 3474.6680ms
+2024-04-02 21:31:03.4423|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/swagger/favicon-32x32.png - -
+2024-04-02 21:31:07.0443|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:31:07.0565|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty.
+2024-04-02 21:31:06.1951|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/swagger/v1/swagger.json - -
+2024-04-02 21:31:08.0402|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:31:08.2167|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMR" completed keep alive response.
+2024-04-02 21:31:07.0847|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-04-02 21:31:08.9026|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMS" completed keep alive response.
+2024-04-02 21:31:08.2167|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2021.7143ms
+2024-04-02 21:31:08.9026|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/swagger/favicon-32x32.png - - - 200 628 image/png 5460.3265ms
+2024-04-02 21:31:40.8640|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" accepted.
+2024-04-02 21:31:40.8682|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" started.
+2024-04-02 21:31:40.8682|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:31:41.6659|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:31:41.6659|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:31:41.6659|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2024-04-02 21:31:42.9247|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:31:42.9247|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:31:42.9285|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:31:43.9425|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:31:45.1949|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:31:45.1949|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 4324.0082ms
+2024-04-02 21:31:55.8823|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:31:56.8544|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:31:56.8544|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:31:56.8544|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:31:56.8544|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:31:56.8544|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:31:57.7111|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:31:58.7134|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:31:58.7134|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2831.1606ms
+2024-04-02 21:32:10.8707|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:32:11.7576|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:32:11.7576|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:32:11.7576|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:32:11.7576|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:32:11.7576|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:32:12.7712|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:32:14.0807|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:32:14.0807|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3210.0635ms
+2024-04-02 21:32:25.8764|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:32:26.6437|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:32:26.6437|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:32:26.6437|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:32:26.6437|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:32:26.6437|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:32:27.9539|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:32:28.7572|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:32:28.7572|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2880.8195ms
+2024-04-02 21:32:40.8761|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:32:41.7018|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:32:41.7018|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:32:41.7018|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:32:41.7018|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:32:41.7018|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:32:42.6172|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:32:43.9633|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:32:43.9633|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3087.2251ms
+2024-04-02 21:32:55.8756|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:32:56.7499|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:32:56.7499|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:32:56.7499|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:32:56.7499|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:32:56.7499|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:32:58.1333|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:32:59.1643|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:32:59.1643|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3288.8540ms
+2024-04-02 21:33:10.8697|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:33:11.8593|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:33:11.8593|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:33:11.8593|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:33:11.8593|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:33:11.8593|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:33:13.1591|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:33:14.0841|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:33:14.0841|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3214.4773ms
+2024-04-02 21:33:25.8790|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:33:26.8358|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:33:26.8358|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:33:26.8358|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:33:26.8358|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:33:26.8358|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:33:30.0673|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:33:30.9865|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:33:30.9865|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 5107.5698ms
+2024-04-02 21:33:40.8725|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:33:41.8381|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:33:41.8381|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:33:41.8381|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:33:41.8381|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:33:41.8381|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:33:42.6796|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:33:44.1192|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:33:44.1192|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3246.7085ms
+2024-04-02 21:33:55.8769|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:33:56.7077|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:33:56.7077|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:33:56.7077|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:33:56.7077|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:33:56.7077|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:33:57.5322|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:33:58.7660|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:33:58.7660|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2889.1195ms
+2024-04-02 21:34:10.8740|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:34:11.8248|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:34:11.8248|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:34:11.8248|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:34:11.8248|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:34:11.8248|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:34:12.6685|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:34:13.5588|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:34:13.5588|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2684.8129ms
+2024-04-02 21:34:25.8711|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:34:26.7470|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:34:26.7470|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:34:26.7470|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:34:26.7470|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:34:26.7470|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:34:27.6128|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:34:28.4517|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:34:28.4517|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2580.5947ms
+2024-04-02 21:34:40.8702|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:34:41.7250|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:34:41.7250|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:34:41.7250|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:34:41.7250|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:34:41.7250|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:34:42.6505|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:34:43.5479|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:34:43.5479|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2677.6546ms
+2024-04-02 21:34:55.8689|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:34:56.6635|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:34:56.6635|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:34:56.6635|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:34:56.6635|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:34:56.6635|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:34:57.5028|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:34:58.8099|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:34:58.8099|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2941.0998ms
+2024-04-02 21:35:10.8744|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:35:11.6890|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:35:11.6890|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:35:11.6890|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:35:11.6890|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:35:11.6890|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:35:12.5733|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:35:13.4603|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:35:13.4603|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2586.5591ms
+2024-04-02 21:35:25.8673|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:35:27.4142|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:35:27.4142|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:35:27.4142|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:35:27.4142|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:35:27.4142|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:35:28.3177|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:35:29.1237|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:35:29.1237|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3256.4410ms
+2024-04-02 21:35:40.8740|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:35:41.7110|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:35:41.7110|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:35:41.7110|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:35:41.7110|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:35:41.7110|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:35:42.6087|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:35:43.4888|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:35:43.4888|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2614.9282ms
+2024-04-02 21:35:55.8706|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:35:56.6837|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:35:56.6837|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:35:56.6837|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:35:56.6837|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:35:56.6837|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:35:57.5487|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:35:58.8196|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:35:58.8196|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2949.0590ms
+2024-04-02 21:36:10.8756|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:36:11.7267|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:36:11.7267|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:36:11.7267|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:36:11.7267|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:36:11.7267|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:36:13.0809|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:36:13.8982|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:36:13.8982|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3022.6632ms
+2024-04-02 21:36:20.5052|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2J8C3CKFMR" received FIN.
+2024-04-02 21:36:20.5052|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2J8C3CKFMS" received FIN.
+2024-04-02 21:36:20.5207|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMR" disconnecting.
+2024-04-02 21:36:20.5210|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMS" disconnecting.
+2024-04-02 21:36:20.5635|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2J8C3CKFMS" sending FIN because: "The client closed the connection."
+2024-04-02 21:36:20.5635|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2J8C3CKFMR" sending FIN because: "The client closed the connection."
+2024-04-02 21:36:20.5750|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMS" stopped.
+2024-04-02 21:36:20.5750|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMR" stopped.
+2024-04-02 21:36:25.8768|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:36:26.7217|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:36:26.7217|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:36:26.7217|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:36:26.7217|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:36:26.7217|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:36:27.5780|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:36:28.4872|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:36:28.4872|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2610.4835ms
+2024-04-02 21:36:40.8752|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:36:41.6860|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:36:41.6860|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:36:41.6860|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:36:41.6860|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:36:41.6860|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:36:42.6257|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:36:43.9367|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:36:43.9367|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3061.5372ms
+2024-04-02 21:36:55.8708|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:36:56.8307|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:36:56.8307|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:36:56.8307|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:36:56.8307|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:36:56.8307|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:36:57.8462|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:36:59.1350|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:36:59.1350|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3264.2235ms
+2024-04-02 21:37:10.8687|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:37:11.6298|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:37:11.6298|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:37:11.6298|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:37:11.6298|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:37:11.6298|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:37:13.2667|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:37:14.1050|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:37:14.1050|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3236.2701ms
+2024-04-02 21:37:25.8790|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:37:26.6889|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:37:26.6889|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:37:26.6889|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:37:26.6889|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:37:26.6889|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:37:27.9670|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:37:28.8393|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:37:28.8393|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2960.3752ms
+2024-04-02 21:37:40.8704|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:37:41.6813|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:37:41.6813|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:37:41.6813|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:37:41.6813|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:37:41.6813|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:37:42.6072|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:37:43.9860|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:37:43.9860|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 3115.6589ms
+2024-04-02 21:37:55.8637|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:37:56.6787|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:37:56.6787|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:37:56.6787|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:37:56.6787|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:37:56.6787|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:37:57.5092|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:37:58.5205|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:37:58.5205|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2656.8144ms
+2024-04-02 21:38:10.8771|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:38:11.7035|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:38:11.7035|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:38:11.7035|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:38:11.7035|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:38:11.7035|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:38:12.5058|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:38:13.3601|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:38:13.3601|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2483.0901ms
+2024-04-02 21:38:25.8759|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5108/metrics - -
+2024-04-02 21:38:26.8508|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-02 21:38:26.8508|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter
+2024-04-02 21:38:26.8508|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/metrics'
+2024-04-02 21:38:26.8508|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Prometheus metrics'
+2024-04-02 21:38:26.8508|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Prometheus metrics'
+2024-04-02 21:38:27.7241|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Prometheus metrics'
+2024-04-02 21:38:28.8694|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" completed keep alive response.
+2024-04-02 21:38:28.8694|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5108/metrics - - - 200 - application/openmetrics-text;+version=1.0.0;+charset=utf-8 2993.5452ms
+2024-04-02 21:38:38.9478|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2J8C3CKFMT" received FIN.
+2024-04-02 21:38:38.9478|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" disconnecting.
+2024-04-02 21:38:38.9478|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2J8C3CKFMT" stopped.
+2024-04-02 21:38:38.9478|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2J8C3CKFMT" sending FIN because: "The Socket transport's send loop completed gracefully."
